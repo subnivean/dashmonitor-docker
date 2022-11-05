@@ -1,0 +1,11 @@
+dash
+dash-daq
+pandas
+plotly
+paramiko
+requests
+
+# Always nice to have for interactive exploration
+ipykernel
+jupyter-console
+jupyter_client
