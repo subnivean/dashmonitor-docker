@@ -8,7 +8,7 @@ import dash_daq as daq
 import numpy as np
 import pandas as pd
 
-FILENAME = "/ctdata/house_heat_pump_ct_readings.log"
+FILENAME = "/ctdata/house_ct_readings.log"
 DBFILENAME = "file:/ctdata/heatpumpctdata.db?mode=ro"
 COSTPERKWH = 0.177
 DATASOURCE = "sqlite"
