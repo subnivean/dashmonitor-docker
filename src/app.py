@@ -27,7 +27,7 @@ app.layout = html.Div(
             labelPosition='bottom',
             value=1,
             min=1,
-            max=10,
+            max=100,
         ),
 
         html.P(
