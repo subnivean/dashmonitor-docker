@@ -7,5 +7,5 @@ docker run --rm -it \
   -v $SCRIPT_PATH/src:/app \
   -v /home/pi/ctreader-docker/data:/ctdata \
   -p 8050:8050 \
-  dashmonitor /bin/bash
+  allinone-py311 /bin/bash
 
